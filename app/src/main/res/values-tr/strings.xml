@@ -33,15 +33,15 @@
     <string name="blank_file_text">[Bu boş bir dosya, bir dosya açın veya bu dosyayı düzenleyin ve kaydedin]</string>
     <!-- Run, stdin, stdout  -->
     <string name="main_run_btn">Programı Çalıştır</string>
-    <string name="main_stdin">[Yaz Giriş Text Here]</string>
-    <string name="main_stdout">[Output Text Displayed Here]</string>
-    <string name="main_stdin_header">Giriş Text</string>
-    <string name="main_stdout_header">Çıktı Text</string>
-    <string name="main_data">Data Series</string>
+    <string name="main_stdin">[Girdi Metnini Buraya Yazın]</string>
+    <string name="main_stdout">[Çıktı Metni Burada Görüntülenir]</string>
+    <string name="main_stdin_header">Girdi Metni</string>
+    <string name="main_stdout_header">Çıktı Metni</string>
+    <string name="main_data">Veri Dizisi</string>
     <!-- Strings for shortcuts.xml -->
     <string name="shortcut_disabled">Kısayol Devre Dışı</string>
-    <string name="version_heading">Version Info</string>
-    <string name="main_input">Bytes olarak giriş</string>
-    <string name="main_debug">[Debug Info]</string>
-    <string name="main_output">Bytes</string>
+    <string name="version_heading">Sürüm Bilgisi</string>
+    <string name="main_input">Bayt Olarak Girdi</string>
+    <string name="main_debug">[Hata Ayıklama Bilgileri]</string>
+    <string name="main_output">Bayt Olarak Çıktı</string>
 </resources>

@@ -40,10 +40,4 @@
     <string name="main_data">ডেটা</string>
     <!-- Strings for shortcuts.xml -->
 	<string name="shortcut_disabled">শর্টকাট নিষ্ক্রিয় করা হয়েছে</string>
-    <string name="version_heading"></string>
-    <string name="version_text" translatable="false"></string>
-    <string name="main_input"></string>
-    <string name="main_debug"></string>
-    <string name="main_output"></string>
-    <string name="app_name" translatable="false"></string>
 </resources>

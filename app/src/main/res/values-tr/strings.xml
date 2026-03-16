@@ -40,10 +40,8 @@
     <string name="main_data">Data Series</string>
     <!-- Strings for shortcuts.xml -->
     <string name="shortcut_disabled">Kısayol Devre Dışı</string>
-    <string name="version_text" translatable="false"></string>
     <string name="version_heading">Version Info</string>
     <string name="main_input">Bytes olarak giriş</string>
     <string name="main_debug">[Debug Info]</string>
     <string name="main_output">Bytes</string>
-    <string name="app_name" translatable="false"></string>
 </resources>

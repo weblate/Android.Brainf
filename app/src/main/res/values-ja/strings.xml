@@ -44,6 +44,4 @@
     <string name="main_input">バイトとして入力</string>
     <string name="main_debug">[デバッグ情報]</string>
     <string name="main_output">バイトとして出力</string>
-    <string name="version_text" translatable="false"></string>
-    <string name="app_name" translatable="false"></string>
 </resources>

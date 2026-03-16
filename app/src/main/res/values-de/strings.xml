@@ -40,10 +40,8 @@
     <string name="main_data">Datenarray</string>
     <!-- Strings for shortcuts.xml -->
 	<string name="shortcut_disabled">Verknüpfung deaktiviert</string>
-    <string name="app_name" translatable="false"></string>
     <string name="version_heading">Details zum Artikel</string>
     <string name="main_input">Input als Bytes</string>
     <string name="main_debug">(Debug Info)</string>
     <string name="main_output">Ausgabe als Bytes</string>
-    <string name="version_text" translatable="false"></string>
 </resources>

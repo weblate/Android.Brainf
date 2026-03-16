@@ -44,6 +44,4 @@
     <string name="main_input">Masukan sebagai Bytes</string>
     <string name="main_debug">[Debug Info]</string>
     <string name="main_output">Output sebagai Bytes</string>
-    <string name="version_text" translatable="false"></string>
-    <string name="app_name" translatable="false"></string>
 </resources>

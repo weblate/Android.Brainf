@@ -27,10 +27,8 @@
     <string name="main_stdout_header">Текст</string>
     <string name="main_data">Сбор данных</string>
     <string name="shortcut_disabled">Ярлык отключен</string>
-    <string name="app_name" translatable="false"></string>
     <string name="version_heading">Версия</string>
     <string name="main_input">Вход как байты</string>
     <string name="main_debug">[Debug Info]</string>
     <string name="main_output">Выход: байты</string>
-    <string name="version_text" translatable="false"></string>
 </resources>

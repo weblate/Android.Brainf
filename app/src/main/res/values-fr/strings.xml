@@ -18,13 +18,10 @@
     <string name="features_text">- **Intégration avec le thème système**: Brainf s\'intègre parfaitement au thème du système, garantissant que l\'apparence de l\'application s\'aligne sur les choix de conception globaux de l\'utilisateur.\n\n- **Gestion facile du code**: Créez, modifiez, enregistrez et exécutez facilement des fichiers de code et de texte Brainf, offrant une plateforme complète pour vos projets de codage.\n\n- **Mise en évidence syntaxique dynamique**: Profitez de la mise en évidence syntaxique basée sur des expressions régulières, rendant vos structures de code et vos éléments clairement distingués pour une meilleure lisibilité et compréhension.\n\n- **Navigation rapide via des raccourcis du lanceur**: Accédez instantanément aux sections clés telles que les paramètres, À propos et Nouveau fichier grâce à des raccourcis pratiques, simplifiant votre interaction avec l\'application pour une efficacité maximale.</string>
     <!-- License -->
     <string name="license_heading">Licence MIT</string>
-    <string name="license_text">Droits d\’auteur © FredHappyface</string>
+    <string name="license_text">Droits dauteur © FredHappyface</string>
     <!-- Links -->
     <string name="links_heading">Liens</string>
-    <string name="links_text">- Le code source de Brainf est disponible sur https://github.com/FredHappyface/Android.Brainf
-\n
-\n- Licence MIT
-\n(Voir la licence pour plus d\’informations https://github.com/FredHappyface/Android.Brainf/blob/main/LICENSE.md )</string>
+    <string name="links_text">- Le code source de Brainf est disponible sur https://github.com/FredHappyface/Android.Brainf\n\n- Licence MIT\n(Voir la licence pour plus dinformations https://github.com/FredHappyface/Android.Brainf/blob/main/LICENSE.md )</string>
     <!-- Saved dialog  -->
     <string name="dialog_saved_button">OK</string>
     <string name="dialog_saved_title">Enregistré!</string>

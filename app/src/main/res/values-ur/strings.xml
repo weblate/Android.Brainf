@@ -40,4 +40,10 @@
     <string name="main_data">ڈیٹا</string>
     <!-- Strings for shortcuts.xml -->
 	<string name="shortcut_disabled">شارٹ کٹ غیر فعال ہے</string>
+    <string name="version_heading"></string>
+    <string name="version_text" translatable="false"></string>
+    <string name="main_input"></string>
+    <string name="main_debug"></string>
+    <string name="main_output"></string>
+    <string name="app_name" translatable="false"></string>
 </resources>

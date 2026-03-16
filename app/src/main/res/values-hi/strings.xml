@@ -44,4 +44,6 @@
     <string name="main_input">बाइट्स के रूप में इनपुट</string>
     <string name="main_debug">[Debug Info]</string>
     <string name="main_output">बाइट्स के रूप में आउटपुट</string>
+    <string name="version_text" translatable="false"></string>
+    <string name="app_name" translatable="false"></string>
 </resources>

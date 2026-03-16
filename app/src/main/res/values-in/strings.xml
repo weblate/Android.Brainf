@@ -15,13 +15,7 @@
     <string name="info_text">Penerjemah untuk bahasa pemrograman \‘Brainf\’.</string>
     <!-- Features -->
     <string name="features_heading">Fitur</string>
-    <string name="features_text">- Integrasi dengan Tema Sistem**: Brainf terintegrasi dengan tema sistem dengan mulus, memastikan bahwa tampilan aplikasi selaras dengan pilihan desain di seluruh perangkat pengguna.
-\n
-\n- Manajemen Kode yang Mudah**: Membuat, mengedit, menyimpan, dan menjalankan kode dan file teks Brainf dengan mudah, menyediakan platform yang komprehensif untuk upaya pengkodean.
-\n
-\n- **Penyorotan Sintaksis**: Manfaatkan kekuatan penyorotan sintaksis berbasis regex, membuat struktur dan elemen kode Anda jelas berbeda untuk meningkatkan keterbacaan dan pemahaman.
-\n
-\n- Navigasi Cepat melalui Pintasan Peluncur**: Akses bagian utama seperti Pengaturan, Tentang, dan File Baru secara instan melalui pintasan peluncur yang nyaman, menyederhanakan interaksi Anda dengan aplikasi untuk efisiensi maksimum.</string>
+    <string name="features_text">- Integrasi dengan Tema Sistem**: Brainf terintegrasi dengan tema sistem dengan mulus, memastikan bahwa tampilan aplikasi selaras dengan pilihan desain di seluruh perangkat pengguna.\n\n- Manajemen Kode yang Mudah**: Membuat, mengedit, menyimpan, dan menjalankan kode dan file teks Brainf dengan mudah, menyediakan platform yang komprehensif untuk upaya pengkodean.\n\n- **Penyorotan Sintaksis**: Manfaatkan kekuatan penyorotan sintaksis berbasis regex, membuat struktur dan elemen kode Anda jelas berbeda untuk meningkatkan keterbacaan dan pemahaman.\n\n- Navigasi Cepat melalui Pintasan Peluncur**: Akses bagian utama seperti Pengaturan, Tentang, dan File Baru secara instan melalui pintasan peluncur yang nyaman, menyederhanakan interaksi Anda dengan aplikasi untuk efisiensi maksimum.</string>
     <!-- License -->
     <string name="license_heading">Lisensi MIT</string>
     <string name="license_text">Hak Cipta © FredHappyface</string>

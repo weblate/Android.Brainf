@@ -21,10 +21,7 @@
     <string name="license_text">Copyright © FredHappyface</string>
     <!-- Links -->
     <string name="links_heading">Enlaces</string>
-    <string name="links_text">- El código fuente de Brainf está disponible en https://github.com/FredHappyface/Android.Brainf
-\n
-\n- Licencia MIT
-\n(Consulte la licencia para obtener más información en https://github.com/FredHappyface/Android.Brainf/blob/main/LICENSE.md )</string>
+    <string name="links_text">- El código fuente de Brainf está disponible en https://github.com/FredHappyface/Android.Brainf\n\n- Licencia MIT\n(Consulte la licencia para obtener más información en https://github.com/FredHappyface/Android.Brainf/blob/main/LICENSE.md )</string>
     <!-- Saved dialog  -->
     <string name="dialog_saved_button">De acuerdo</string>
     <string name="dialog_saved_title">¡Guardado!</string>

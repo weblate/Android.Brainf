@@ -12,7 +12,7 @@
     <!-- about  -->
     <!-- Info -->
     <string name="info_heading">Infos</string>
-    <string name="info_text">Interpréteur pour le langage de programmation \‘Brainf\’.</string>
+    <string name="info_text">Interpréteur pour le langage de programmation Brainf.</string>
     <!-- Features -->
     <string name="features_heading">Fonctionnalités</string>
     <string name="features_text">- **Intégration avec le thème système**: Brainf s\'intègre parfaitement au thème du système, garantissant que l\'apparence de l\'application s\'aligne sur les choix de conception globaux de l\'utilisateur.

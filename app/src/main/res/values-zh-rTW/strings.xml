@@ -27,10 +27,7 @@
     <string name="license_text">版權所有 © FredHappyface</string>
     <!-- Links -->
     <string name="links_heading">連結</string>
-    <string name="links_text">- Brainf 的原始碼可在 https://github.com/FredHappyface/Android.Brainf 找到
-\n
-\n- MIT 授權
-\n(有關詳細資訊，請參閱授權 https://github.com/FredHappyface/Android.Brainf/blob/main/LICENSE.md )</string>
+    <string name="links_text">- Brainf 的原始碼可在 https://github.com/FredHappyface/Android.Brainf 找到\n\n- MIT 授權\n(有關詳細資訊，請參閱授權 https://github.com/FredHappyface/Android.Brainf/blob/main/LICENSE.md )</string>
     <!-- Saved dialog  -->
     <string name="dialog_saved_button">確定</string>
     <string name="dialog_saved_title">已儲存！</string>

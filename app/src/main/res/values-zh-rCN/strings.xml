@@ -23,11 +23,11 @@
     <string name="links_heading">链接</string>
     <string name="links_text">- Brainf的源代码位于 https://github.com/FredHappyface/Android.Brainf\n\n- MIT许可\n(有关更多信息，请参阅许可证 https://github.com/FredHappyface/Android.Brainf/blob/main/LICENSE.md )</string>
     <!-- Saved dialog  -->
-    <string name="dialog_saved_button">OK</string>
+    <string name="dialog_saved_button">好的</string>
     <string name="dialog_saved_title">已保存！</string>
     <!-- New file dialog  -->
     <string name="dialog_new_confirm">是</string>
-    <string name="dialog_new_cancel">无</string>
+    <string name="dialog_new_cancel">否</string>
     <string name="dialog_new_title">创建新文件？</string>
     <!-- Blank file text  -->
     <string name="blank_file_text">[这是一个空文件，请打开一个文件或编辑此文件并保存]</string>
